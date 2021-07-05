@@ -2,7 +2,6 @@ Hola Mundo, estoy usando git, soy Andrea :) te quiero
 Mido 1.73
 experimento 1
 Expermiento 2
-
 Master 1
 master 2
 Hoy hablaremos de mí. 
