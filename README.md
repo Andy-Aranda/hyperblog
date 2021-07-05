@@ -6,3 +6,4 @@ Hyperblog es un blog que fue creado para practicar los diferentes comandos y her
 - Trabajar con otras personas y comunicar y revisar nuestros cambios a través de pull requests. 
 - Hacer *forks* de otros proyectos para contribuir a ellos. 
 - Desarrollar buenas prácticas como hacer un *pull* antes de un *push*. 
+- Uso de *git rebase*, *git stash*, *git clean* y *git cherry-pick*.
